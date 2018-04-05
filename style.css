@@ -1,0 +1,146 @@
+body{
+	margin: 0;
+}
+.text{
+	font-family: sans-serif;
+}
+.cover{
+	background-image: url(images/bg.jpeg);
+	height: 700px;
+}
+.cover .nav .logo{
+	width: 23%;
+}
+.nav{
+
+}
+.nav ul{
+	color: white;
+	list-style: none;
+	margin: 0;
+}
+.nav ul li{
+	float: left;
+	padding: 30px;
+}
+.row{
+	clear: both;
+}
+.cover h1{
+	font-weight: normal;
+	margin: 0px;
+	text-align: center;
+	color: white;
+	max-width: 500px;
+	margin:0 auto;
+	padding-top: 40px;
+}
+.cover .btn{
+	margin-top: 20px;
+    text-align: center;
+}
+.cover .btn .comienza{
+	background-color: blue;
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+}
+.cover .btn .info{
+	background-color: green;
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+}
+.cover h3{
+	font-size: 13px;
+	color: white;
+	text-align: center;
+	font-weight: normal;
+	max-width: 700px;
+	margin: 0 auto;
+	padding-top: 40px;
+}
+.contenedor{
+	padding-top: 100px;
+}
+.contenedor h2{
+	font-size: 20px;
+	text-align: center;
+	color: black;
+	font-weight: normal;
+	max-width: 700px;
+	margin: 0 auto;
+}
+.contenedor p{
+	font-size: 12px;
+	text-align: center;
+	max-width: 700px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.contenedor .center{
+	text-align: center;
+}
+.contenedor .personas{
+	max-width: 500px;
+}
+.line{
+	border-top: 1px solid #D2D2D2;
+	width: 100%;
+}
+.contenedor2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.contenedor2 h2{
+	font-size: 20px;
+	text-align: center;
+	color: black;
+	font-weight: normal;
+	max-width: 700px;
+	margin: 0 auto;
+}
+.contenedor2 h2.subtext{
+	font-size: 15px;
+	text-align: center;
+	color: black;
+	font-weight: normal;
+	margin-top: 30px;
+}
+.contenedor2 p{
+	font-size: 12px;
+	text-align: center;
+	max-width: 700px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.contenedor2 .btn{
+	text-align: center;
+	margin-top: 40px;
+}
+.contenedor2 .btn .inscribete{
+	background-color: #607AC7;
+	padding: 15px;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	letter-spacing: 1px;
+	font-weight: normal;
+}
+.contenedor3{
+	float: left;
+}
+.contenedor4{
+	float: left;
+}
+.contenedor3 .contacto {
+	text-align: left;
+	color: black;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
