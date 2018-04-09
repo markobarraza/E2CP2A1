@@ -132,15 +132,54 @@ body{
 	font-weight: normal;
 }
 .contenedor3{
-	float: left;
+	text-align: center;
+
 }
-.contenedor4{
-	float: left;
-}
-.contenedor3 .contacto {
+
+.contenedor3 .centro {
 	text-align: left;
 	color: black;
-	max-width: 700px;
+	max-width: 600px;
 	margin: 0 auto;
 }
+.contenedor3 .contacto{
+	max-width: 300px;
+	width: 100%;
+	float: left;
+}
+.contenedor3 .centro .contacto h4{
+	margin: 6px 0px 0px 0px;
+	font-size: 14px;
+	font-weight: normal;
+}
+.contenedor3 .centro .contacto h4.title-contacto{
+	font-size: 20px;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+.contenedor3 .centro .contacto p{
+	font-size: 14px;	
+}
+
+/*formulario*/
+		.formulario {
+			text-align: left;
+		}
+
+		.formulario input,
+		.formulario button {
+			padding: 5px;
+			border-radius: 3px;
+			border: 1px solid #ccc;
+			color: #666;
+		}
+
+
+		.formulario input {
+			
+		}
+
+		.formulario button {
+			background-color: transparent;
+		}
 
